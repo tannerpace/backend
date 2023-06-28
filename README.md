@@ -6,7 +6,7 @@ I plan to use the following technologies:
 - Node.js
 - Express.js
 - MySQL
-- Sequelize
+- Prisma
 - Next.js
 - React.js
 - React Query
